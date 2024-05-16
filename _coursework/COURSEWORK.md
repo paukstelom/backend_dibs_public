@@ -1,6 +1,8 @@
 # OOP Coursework (Backend Dibs)
 
-My coursework involves developing a REST API for a startup project named Party Dibs.
+My is a REST API for a startup project named Party Dibs.
+
+(THIS IS A PUBLIC REPO THAT ONLY INCLUDES THE COURSEWORK README FILE)
 
 # Introduction
 
